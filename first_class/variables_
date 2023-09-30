@@ -1,0 +1,14 @@
+const accountId = 14445
+let accountEmail = "sagarch@google.com"
+var accountPassword = "85098151"
+accountCity = "west bengal"
+
+
+
+accountId = 14445
+accountEmail = "sag@gmail.com"
+accountPassword = "85098151"
+accountCity = "west bengal"
+
+console.table([accountId, accountEmail, accountPassword, accountCity]);
+// console.log("accountPassword");
